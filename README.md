@@ -1,7 +1,7 @@
 <h1> Hello there! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=.)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Arav0001.visitor-badge)
 
 </p>
 <div size='20px'> Hi! My name is Arav Sonawane. :smile: 
