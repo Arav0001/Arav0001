@@ -12,11 +12,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on GravSim, one of my C++ projects
+- 🛠️ I’m currently working on FTC Robotics, CADing and designing my team's robot for the state competition
 
 - 🌱 I’m currently learning trying to master C++ (even though that's impossible) 
 
-- 👯 I’m looking to collaborate on  
+- 👯 I’m looking to collaborate on almost any coding/engineering related project
 
 - 💬 Talk to me about astronomy, physics, mathematics, and coding 
 
